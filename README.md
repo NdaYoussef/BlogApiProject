@@ -10,4 +10,6 @@ Like/Dislike System: Users can like or dislike posts and comments.
 
 ![Screenshot 2024-08-24 172001](https://github.com/user-attachments/assets/0433d098-dbc9-4a3f-80bc-95fe36320cb0)
 ![Screenshot 2024-08-24 172010](https://github.com/user-attachments/assets/c36e539a-5bc1-4d69-96d7-ae43935ac4b9)
+![Screenshot 2024-08-24 172016](https://github.com/user-attachments/assets/2fe8df3c-1ef8-4664-a51e-ee5ae99711c6)
+
 
