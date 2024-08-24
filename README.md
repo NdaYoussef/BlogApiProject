@@ -8,3 +8,4 @@ Comment System: Users can add, edit, delete, and view comments on posts.
 Like/Dislike System: Users can like or dislike posts and comments.
 
 
+![Screenshot 2024-08-24 172001](https://github.com/user-attachments/assets/0433d098-dbc9-4a3f-80bc-95fe36320cb0)
